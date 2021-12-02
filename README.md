@@ -2,6 +2,7 @@
 - 👀 I’m interested in all flavors of software development, data analysis, and data wrangling.
 - 🌱 I’m currently learning lots of modern frameworks and data analysis tools.  NumPy and fantasy football are attracting my focus ATM.
 - 💞️ I’m looking to collaborate on any projects of interest.  
+- 📧 To contact me, please use the form at http://www.trentseigfried.com/
 
 <!---
 trents/trents is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
